@@ -5,6 +5,7 @@ provides dice inversion and captcha sequence for the security module in Uncle Ch
 
 1. **Clone the repository:**
    ``git clone https://github.com/iEdgir01/UCRS_security_cracker.git``
+   
    ``cd path/to/your/cloned/directory``
 3. **Ensure you have Python installed: This script is written in Python.**
     You can download it from python.org.
